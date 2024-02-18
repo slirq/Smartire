@@ -30,7 +30,7 @@ run the sal_qual.ipynb file to check for saliency maps of models on the tire def
 run the pre-procssing.ipynb to see image pre-processing attempts while experimenting  
 
 In the script folder
-run server.py to run server for android app Ai model deployment
+run server.py to run server for android app AI model deployment
 
 the Tyre Defect Camera Detection.zip and Tyre Defect Analyser.zip are the gallery and live camera varients of the client side Android APP
 
