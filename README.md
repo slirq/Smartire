@@ -1,6 +1,11 @@
 
 # SmartTire: AI-Powered Tire Defect Detection System
 
+## Developers
+
+- Arnab Sinha (@arnabsinha99)
+- Abdullah Shaikh (@slirq)
+
 ## Introduction
 
 SmartTire leverages artificial intelligence techniques to revolutionize tire defect detection in the automotive industry. Our goal is to develop a real-time AI system capable of analyzing unprocessed tire images accurately without specialized equipment, aiming to enhance safety, reduce inspection time and costs, and improve tire maintenance.
