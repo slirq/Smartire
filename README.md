@@ -3,8 +3,8 @@
 
 ## Developers
 
-- Arnab Sinha (@arnabsinha99)
 - Abdullah Shaikh (@slirq)
+- Arnab Sinha (@arnabsinha99)
 
 ## Introduction
 
